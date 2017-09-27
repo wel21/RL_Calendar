@@ -1,0 +1,20 @@
+C:\Users\RCARRASCAL\AppData\Local\Temporary Projects\Calendar Overlay\bin\Debug\Calendar Overlay.exe.config
+C:\Users\RCARRASCAL\AppData\Local\Temporary Projects\Calendar Overlay\bin\Debug\Calendar Overlay.exe
+C:\Users\RCARRASCAL\AppData\Local\Temporary Projects\Calendar Overlay\bin\Debug\Calendar Overlay.pdb
+C:\Users\RCARRASCAL\AppData\Local\Temporary Projects\Calendar Overlay\obj\Debug\Calendar Overlay.csprojResolveAssemblyReference.cache
+C:\Users\RCARRASCAL\AppData\Local\Temporary Projects\Calendar Overlay\obj\Debug\Calendar_Overlay.FrmCalendar.resources
+C:\Users\RCARRASCAL\AppData\Local\Temporary Projects\Calendar Overlay\obj\Debug\Calendar_Overlay.Properties.Resources.resources
+C:\Users\RCARRASCAL\AppData\Local\Temporary Projects\Calendar Overlay\obj\Debug\Calendar Overlay.csproj.GenerateResource.Cache
+C:\Users\RCARRASCAL\AppData\Local\Temporary Projects\Calendar Overlay\obj\Debug\Calendar Overlay.csproj.CoreCompileInputs.cache
+C:\Users\RCARRASCAL\AppData\Local\Temporary Projects\Calendar Overlay\obj\Debug\Calendar Overlay.exe
+C:\Users\RCARRASCAL\AppData\Local\Temporary Projects\Calendar Overlay\obj\Debug\Calendar Overlay.pdb
+C:\Users\RCARRASCAL\source\repos\Calendar Overlay\Calendar Overlay\bin\Debug\Calendar Overlay.exe.config
+C:\Users\RCARRASCAL\source\repos\Calendar Overlay\Calendar Overlay\bin\Debug\Calendar Overlay.exe
+C:\Users\RCARRASCAL\source\repos\Calendar Overlay\Calendar Overlay\bin\Debug\Calendar Overlay.pdb
+C:\Users\RCARRASCAL\source\repos\Calendar Overlay\Calendar Overlay\obj\Debug\Calendar Overlay.csprojResolveAssemblyReference.cache
+C:\Users\RCARRASCAL\source\repos\Calendar Overlay\Calendar Overlay\obj\Debug\Calendar_Overlay.FrmCalendar.resources
+C:\Users\RCARRASCAL\source\repos\Calendar Overlay\Calendar Overlay\obj\Debug\Calendar_Overlay.Properties.Resources.resources
+C:\Users\RCARRASCAL\source\repos\Calendar Overlay\Calendar Overlay\obj\Debug\Calendar Overlay.csproj.GenerateResource.Cache
+C:\Users\RCARRASCAL\source\repos\Calendar Overlay\Calendar Overlay\obj\Debug\Calendar Overlay.csproj.CoreCompileInputs.cache
+C:\Users\RCARRASCAL\source\repos\Calendar Overlay\Calendar Overlay\obj\Debug\Calendar Overlay.exe
+C:\Users\RCARRASCAL\source\repos\Calendar Overlay\Calendar Overlay\obj\Debug\Calendar Overlay.pdb
